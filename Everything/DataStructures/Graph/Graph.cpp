@@ -1,4 +1,4 @@
-#include "Graph.hpp"
+#include "Everything/DataStructures/Graph/Graph.hpp"
 #pragma once
 
 template<typename T>

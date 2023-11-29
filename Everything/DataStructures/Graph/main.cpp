@@ -1,5 +1,5 @@
-#include "Graph.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Node/Node.cpp"
+#include "Everything/DataStructures/Graph/Graph.cpp"
+#include "Everything/DataStructures/Node/Node.cpp"
 
 auto main() -> int
 {

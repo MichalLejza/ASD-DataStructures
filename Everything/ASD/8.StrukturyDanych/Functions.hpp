@@ -1,13 +1,12 @@
 #ifndef EVERYTHING_FUNCTIONS_HPP
 #define EVERYTHING_FUNCTIONS_HPP
 
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Graph/Graph.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/LinkedList/LinkedList.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Stack/Stack.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Queue/Queue.cpp"
+#include "/Everything/DataStructures/Graph/Graph.cpp"
+#include "/Everything/DataStructures/LinkedList/LinkedList.cpp"
+#include "/Everything/DataStructures/Stack/Stack.cpp"
+#include "/Everything/DataStructures/Queue/Queue.cpp"
 
 #pragma once
-
 
 LinkedList::LinkedList<int> *DFS(Graph::DirectedGraph<int> *graph, int data)
 {
@@ -38,7 +37,6 @@ LinkedList::LinkedList<int> *DFS(Graph::DirectedGraph<int> *graph, int data)
             }
         }
     }
-
     return L;
 }
 
@@ -71,7 +69,6 @@ LinkedList::LinkedList<int> *BFS(Graph::DirectedGraph<int> *graph, int data)
             }
         }
     }
-
     return L;
 }
 

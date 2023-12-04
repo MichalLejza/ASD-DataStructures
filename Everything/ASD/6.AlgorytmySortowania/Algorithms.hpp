@@ -83,42 +83,38 @@ void InsertionSort(std::vector<T> &E)
 template<typename T>
 void QuickSortSplit(std::vector<T> &E, int i, int j, int count)
 {
-    int m = 0;
-    int n = j - 1;
-
-    std::cout << "QUICK SORT operacja numer: " << count << std::endl;
-
-    m = split(E, i, j);
+    std::cout << "QUICK SORT SPLIT:    " << count << std::endl;
+    print(E);
+    int m = split(E, i, j);
+    print(E);
 
     if (m > 1)
     {
-        QuickSortSplit(E, 0, m , count + 1);
+        QuickSortSplit(E, i, m , count + 1);
     }
 
-    if ((n - m - 1) > 1)
+    if ((j - i) - m - 1) > 1)
     {
-        QuickSortSplit(E, m + 1, j, count + 1);
+        QuickSortSplit(E, m, j, count + 1);
     }
 }
 
 template<typename T>
 void QuickSortPartition(std::vector<T> &E, int i, int j, int count)
 {
-    int m = 0;
-    int n = j - 1;
-
-    std::cout << "QUICK SORT operacja numer: " << count << std::endl;
-
-    m = partition(E, i, j);
-
+    std::cout << "QUICK SORT PARTITION:    " << count << std::endl;
+    print(E);
+    int m = partition(E, i, j);
+    print(E);
+    
     if (m > 1)
     {
-        QuickSortPartition(E, 0, m - 1, count + 1);
+        QuickSortPartition(E, 0, m, count + 1);
     }
 
-    if ((n - m - 1) > 1)
+    if ((j - i) - m - 1 > 1)
     {
-        QuickSortPartition(E, m + 1, n - 1, count + 1);
+        QuickSortPartition(E, m, j, count + 1);
     }
 }
 

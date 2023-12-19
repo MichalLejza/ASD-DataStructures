@@ -1,7 +1,7 @@
 #ifndef EVERYTHING_QUEUE_HPP
 #define EVERYTHING_QUEUE_HPP
 
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Node/Node.cpp"
+#include "/DataStructures/Node/Node.cpp"
 
 namespace Queue
 {

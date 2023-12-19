@@ -1,4 +1,4 @@
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Queue/Queue.cpp"
+#include "/DataStructures/Queue/Queue.cpp"
 
 void testPriorityQueue()
 {
@@ -6,8 +6,8 @@ void testPriorityQueue()
     a -> insert(5,21);
     a -> insert(10,89);
     a -> insert(56, 63);
-    a ->insert(8, 37);
-    a ->insert(89, 12);
+    a -> insert(8, 37);
+    a -> insert(89, 12);
     a -> print();
     a -> decreaseKey(8, 2);
     a -> print();

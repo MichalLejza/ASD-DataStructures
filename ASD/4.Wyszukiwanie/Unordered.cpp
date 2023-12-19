@@ -1,5 +1,5 @@
 #include "iostream"
-#include "/Users/michallejza/CLionProjects/Everything/Utility/Utility.hpp"
+#include "/Utility/Utility.hpp"
 #include "vector"
 
 size_t FindMax(const std::vector<int> &array)

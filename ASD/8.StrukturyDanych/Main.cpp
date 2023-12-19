@@ -1,4 +1,4 @@
-#include "/Users/michallejza/CLionProjects/Everything/ASD/8.StrukturyDanych/Functions.hpp"
+#include "/ASD/8.StrukturyDanych/Functions.hpp"
 
 
 void zadaniePierwsze()

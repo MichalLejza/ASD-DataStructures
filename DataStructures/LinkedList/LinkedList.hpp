@@ -2,7 +2,7 @@
 #define EVERYTHING_LINKEDLIST_HPP
 
 #pragma once
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Node/Node.cpp"
+#include "/DataStructures/Node/Node.cpp"
 #include <iostream>
 #include <sstream>
 #include <cstdarg>

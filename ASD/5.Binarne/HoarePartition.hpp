@@ -3,7 +3,7 @@
 
 #include "vector"
 #include "iostream"
-#include "/Users/michallejza/CLionProjects/Everything/ASD/5.Binarne/Partition.hpp"
+#include "/ASD/5.Binarne/Partition.hpp"
 
 #pragma once
 

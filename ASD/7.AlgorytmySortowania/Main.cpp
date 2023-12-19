@@ -1,6 +1,6 @@
-#include "/Users/michallejza/CLionProjects/Everything/ASD/7.AlgorytmySortowania/RadixSort.hpp"
-#include "/Users/michallejza/CLionProjects/Everything/ASD/7.AlgorytmySortowania/MergeSort.hpp"
-#include "/Users/michallejza/CLionProjects/Everything/ASD/7.AlgorytmySortowania/CountingSort.hpp"
+#include "/ASD/7.AlgorytmySortowania/RadixSort.hpp"
+#include "/ASD/7.AlgorytmySortowania/MergeSort.hpp"
+#include "/ASD/7.AlgorytmySortowania/CountingSort.hpp"
 
 void ZadaniePiate()
 {

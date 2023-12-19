@@ -1,9 +1,9 @@
 #ifndef EVERYTHING_QUICKSORT_HPP
 #define EVERYTHING_QUICKSORT_HPP
 
-#include "/Users/michallejza/CLionProjects/Everything/ASD/5.Binarne/Partition.hpp"
-#include "/Users/michallejza/CLionProjects/Everything/ASD/5.Binarne/Split.hpp"
-#include "/Users/michallejza/CLionProjects/Everything/Utility/Utility.hpp"
+#include "/ASD/5.Binarne/Partition.hpp"
+#include "/ASD/5.Binarne/Split.hpp"
+#include "/Utility/Utility.hpp"
 
 #pragma once
 

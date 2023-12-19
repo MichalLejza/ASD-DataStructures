@@ -1,6 +1,6 @@
-#include "/Users/michallejza/CLionProjects/Everything/ASD/6.AlgorytmySortowania/InsertionSort.hpp"
-#include "/Users/michallejza/CLionProjects/Everything/ASD/6.AlgorytmySortowania/SelectionSort.hpp"
-#include "/Users/michallejza/CLionProjects/Everything/ASD/6.AlgorytmySortowania/QuickSort.hpp"
+#include "/ASD/6.AlgorytmySortowania/InsertionSort.hpp"
+#include "/ASD/6.AlgorytmySortowania/SelectionSort.hpp"
+#include "/ASD/6.AlgorytmySortowania/QuickSort.hpp"
 
 void ZadaniePierwsze()
 {

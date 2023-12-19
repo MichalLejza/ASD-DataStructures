@@ -3,7 +3,7 @@
 
 #pragma once
 
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Node/Node.cpp"
+#include "/DataStructures/Node/Node.cpp"
 
 namespace Stack
 {

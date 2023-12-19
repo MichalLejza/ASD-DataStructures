@@ -1,5 +1,5 @@
-#include "/Users/michallejza/CLionProjects/Everything/ASD/5.Binarne/Partition.hpp"
-#include "/Users/michallejza/CLionProjects/Everything/ASD/5.Binarne/HoarePartition.hpp"
+#include "/ASD/5.Binarne/Partition.hpp"
+#include "/ASD/5.Binarne/HoarePartition.hpp"
 
 void ZadanieDrugie()
 {

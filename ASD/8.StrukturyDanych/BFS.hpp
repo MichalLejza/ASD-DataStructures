@@ -1,10 +1,10 @@
 #ifndef EVERYTHING_BFS_HPP
 #define EVERYTHING_BFS_HPP
 
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Graph/Graph.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/LinkedList/LinkedList.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Stack/Stack.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Queue/Queue.cpp"
+#include "/DataStructures/Graph/Graph.cpp"
+#include "/DataStructures/LinkedList/LinkedList.cpp"
+#include "DataStructures/Stack/Stack.cpp"
+#include "/DataStructures/Queue/Queue.cpp"
 
 #pragma once
 

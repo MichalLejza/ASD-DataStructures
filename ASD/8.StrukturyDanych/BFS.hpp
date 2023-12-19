@@ -3,7 +3,7 @@
 
 #include "/DataStructures/Graph/Graph.cpp"
 #include "/DataStructures/LinkedList/LinkedList.cpp"
-#include "DataStructures/Stack/Stack.cpp"
+#include "/DataStructures/Stack/Stack.cpp"
 #include "/DataStructures/Queue/Queue.cpp"
 
 #pragma once

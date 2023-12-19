@@ -3,8 +3,8 @@
 
 #include "iostream"
 #include "vector"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/LinkedList/LinkedList.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/Utility/Utility.hpp"
+#include "/DataStructures/LinkedList/LinkedList.cpp"
+#include "/Utility/Utility.hpp"
 
 #pragma once
 

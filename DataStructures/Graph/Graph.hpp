@@ -3,7 +3,7 @@
 
 #pragma once
 
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Node/Node.hpp"
+#include "/DataStructures/Node/Node.hpp"
 #include <iostream>
 #include <map>
 #include <set>

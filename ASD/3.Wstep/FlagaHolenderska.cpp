@@ -1,6 +1,6 @@
 #include "iostream"
 #include "vector"
-#include "/Users/michallejza/CLionProjects/Everything/Utility/Utility.hpp"
+#include "/Utility/Utility.hpp"
 
 using namespace Print;
 

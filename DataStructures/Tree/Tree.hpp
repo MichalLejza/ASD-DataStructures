@@ -1,8 +1,8 @@
 #ifndef EVERYTHING_TREE_HPP
 #define EVERYTHING_TREE_HPP
 
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Node/Node.cpp"
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/LinkedList/LinkedList.cpp"
+#include "/DataStructures/Node/Node.cpp"
+#include "/DataStructures/LinkedList/LinkedList.cpp"
 
 #pragma once
 

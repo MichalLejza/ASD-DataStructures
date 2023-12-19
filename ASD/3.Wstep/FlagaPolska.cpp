@@ -1,6 +1,6 @@
 #include "iostream"
 #include "vector"
-#include "/Users/michallejza/CLionProjects/Everything/Utility/Utility.hpp"
+#include "/Utility/Utility.hpp"
 
 auto flag(std::vector<int> &array) -> void
 {

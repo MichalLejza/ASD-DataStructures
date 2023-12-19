@@ -1,4 +1,4 @@
-#include "/Users/michallejza/CLionProjects/Everything/Sorts/Sorts.hpp"
+#include "/Sorts/Sorts.hpp"
 
 #pragma once
 

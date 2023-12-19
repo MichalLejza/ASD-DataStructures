@@ -1,4 +1,4 @@
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/LinkedList/LinkedList.cpp"
+#include "/DataStructures/LinkedList/LinkedList.cpp"
 
 void testLinkedList()
 {

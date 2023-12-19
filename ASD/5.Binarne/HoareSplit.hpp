@@ -3,7 +3,7 @@
 
 #include "iostream"
 #include "vector"
-#include "/Users/michallejza/CLionProjects/Everything/ASD/5.Binarne/Split.hpp"
+#include "/ASD/5.Binarne/Split.hpp"
 
 #pragma once
 
